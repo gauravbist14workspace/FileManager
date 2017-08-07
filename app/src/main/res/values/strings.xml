@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FileManager</string>
+    <string name="choose_option">Choose an action</string>
+</resources>
